@@ -39,17 +39,11 @@ I primarily have enjoyed **C++** for the low level grasp you get of how things w
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-<!--
-**DamascusSmith/DamascusSmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+ <summary><h3> 👨‍💻 Will's Coding Journey... So far</h3></summary>
+   It all started when I was born... nah jk. It started when I was first in highschool in grade 9(well now come to think of it there's scratch but I'm not counting that) and my teacher handed out a sheet with a bunch of ways to use HTML on it. I was always interesting in technology, having my dad get me into it at young age. I would play   games like Diablo 2, Warcraft, and Stronghold Crusader. I remember I would spend my lunches in the library because that was the only decent computer I could get access too outside of class time, and I would just sit in there with that sheet of paper messing with html. Programming fell of for me for a bit there because I never really learned how to learn it and was blissfully un-aware of the vast recources that were on the internet, and\or what I even needed to look up. This is a common theme the not knowing what I don't know. Then later some more computer courses came up where I got to do some more programming in Java, in Netbeans... not my prefered IDE nowadays. But I would find myself over enthusiastic and I remember one time we had to make a little game, so I made a text based rpg(this did not get finished lol), with a full main menu, ascii, and a race selection system. Very specifically I remember I wasn't finished the game in time as you do when you overscope, but with the teacher saying "You know what how about we just call this a Bethesda game, because you've already displayed more learning than I asked for". Then it was off to collage where I currently am now and have learned alot, and now feel comfortable learning things on my own, my latest revalation has been the discovering of ✨Roadmaps✨ where finally I can know what I don't know. There was also alot of time where I spend in unity, and some projects I've worked on can be found below I think that are worth sharing that I made seperate from classes I was taking or was above expectations/had more creative freedom.
+
+</details>
