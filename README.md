@@ -33,12 +33,12 @@ I primarily have enjoyed **C++** for the low level grasp you get of how things w
 ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 
 #
-
+<!--
 ### Some Projects
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=y6120QOlsfU&ab_channel=Darude)
 
 #
-
+-->
 [![DamscusSmith's Github Stats](https://github-readme-stats.vercel.app/api?username=DamascusSmith&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 #
