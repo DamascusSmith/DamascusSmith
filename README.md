@@ -2,12 +2,11 @@
 Hey, my name's Will, or DamascusSmith on most platforms I use. I'm currently a student learning programming with a passion for learning, and what goes into how we learn. My first language was **C#** when I first started seriously messing with unity when I was 17ish, since then though my favorite languages to program in have become **Java, C++, and Frontend** in general.
 I primarily have enjoyed **C++** for the low level grasp you get of how things work. As of late I've also started to feel I have a good grasp of **SQL** Queries and have enjoyed whenever they pop-up.
 
-## ❔ About Me ❔
+**❔ About Me ❔**
 - 🎓 Computer Science Student in Ontario, Canada
 - 🎮 Love game dev hmu just to talk about it
 - 🎯 Always open for a good challenge, and push my limits
 - 💬 How to Reach Me: **Wickendenwilliam@gmail.com**, or **@sirshrkimpalot on Discord**
-
 
 ## Things I'm Firmiliar With
 
