@@ -38,6 +38,7 @@ I primarily have enjoyed **C++** for the low level grasp you get of how things w
 **Reach Me**
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 <!--
 **DamascusSmith/DamascusSmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
