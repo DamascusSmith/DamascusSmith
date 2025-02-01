@@ -7,7 +7,10 @@ As of late I've also started to feel I have a good grasp of **SQL** Queries and 
 
 📫 How to reach me: **Wickendenwilliam@gmail.com**, or **@sirshrkimpalot on Discord**
 
-## Languages
+## My Firmiliarities(or stuff I've used 🤷‍♂️)
+
+Languages:
+
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -38,6 +41,9 @@ OS/Hardware:
 ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
 ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 
+**Reach Me**
+
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 <!--
 **DamascusSmith/DamascusSmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
