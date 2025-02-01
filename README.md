@@ -9,7 +9,7 @@ As of late I've also started to feel I have a good grasp of **SQL** Queries and 
 
 ## Things I'm Firmiliar With
 
-Languages:
+Languages/Frameworks/Tools:
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
