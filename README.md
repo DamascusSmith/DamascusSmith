@@ -1,4 +1,5 @@
-## 📖 William Wickenden
+# 📖 William Wickenden
+**`Ever Evolving Individual (Developer and Student of life)`**
 Hey, my name's Will, or DamascusSmith on most platforms I use. I'm currently a student learning programming with a passion for learning, and what goes into how we learn. My first language was **C#** when I first started seriously messing with unity when I was 17ish, since then though my favorite languages to program in have become **Java, C++, and Frontend** in general.
 I primarily have enjoyed **C++** for the low level grasp you get of how things work. As of late I've also started to feel I have a good grasp of **SQL** Queries and have enjoyed whenever they pop-up.
 
@@ -8,9 +9,9 @@ I primarily have enjoyed **C++** for the low level grasp you get of how things w
 - 🎯 Always open for a good challenge, and push my limits
 - 💬 How to Reach Me: **Wickendenwilliam@gmail.com**, or **@sirshrkimpalot on Discord**
 
-## Things I'm Firmiliar With
+---
 
-Languages/Frameworks/Tools:
+## Languages/Frameworks/Tools/Hardware and what not
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -25,20 +26,11 @@ Languages/Frameworks/Tools:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-Game Engines:
-
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-
-IDEs:
-
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-
-OS/Hardware:
-
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
 ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
