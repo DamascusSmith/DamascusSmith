@@ -7,7 +7,7 @@ As of late I've also started to feel I have a good grasp of **SQL** Queries and 
 
 📫 How to reach me: **Wickendenwilliam@gmail.com**, or **@sirshrkimpalot on Discord**
 
-## My Firmiliarities(or stuff I've used 🤷‍♂️)
+## Things I'm Firmiliar With
 
 Languages:
 
