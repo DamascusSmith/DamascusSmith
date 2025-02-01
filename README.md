@@ -41,7 +41,7 @@ I primarily have enjoyed **C++** for the low level grasp you get of how things w
 
 #
 
-[![DamscusSmith's Github Stats](https://github-readme-stats.vercel.app/api?username=DamsacusSmith&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![DamscusSmith's Github Stats](https://github-readme-stats.vercel.app/api?username=DamascusSmith&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 
