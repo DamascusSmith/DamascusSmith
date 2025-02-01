@@ -3,8 +3,7 @@ Hey, my name's Will, or DamascusSmith on most platforms I use. I'm currently a s
 I primarily have enjoyed **C++** for the low level grasp you get of how things work. As of late I've also started to feel I have a good grasp of **SQL** Queries and have enjoyed whenever they pop-up.
 
 ## ❔ About Me ❔
-*💬 How to Reach Me: 
-**Wickendenwilliam@gmail.com**, or **@sirshrkimpalot on Discord**
+- 💬 How to Reach Me: **Wickendenwilliam@gmail.com**, or **@sirshrkimpalot on Discord**
 
 
 ## Things I'm Firmiliar With
