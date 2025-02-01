@@ -11,7 +11,7 @@ I primarily have enjoyed **C++** for the low level grasp you get of how things w
 
 ---
 
-## Languages/Frameworks/Tools/Hardware and what not
+### Languages/Frameworks/Tools/Hardware and what not
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -34,6 +34,8 @@ I primarily have enjoyed **C++** for the low level grasp you get of how things w
 ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
 ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 
+#
+ 
 **Reach Me**
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
