@@ -33,12 +33,12 @@ I primarily have enjoyed **C++** for the low level grasp you get of how things w
 ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 
 #
-<!--
-### Some Projects
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=y6120QOlsfU&ab_channel=Darude)
+<!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
+<!--[![5 things I wish I knew before studying Computer Science](https://ytcards.demolab.com/?id=Wjj21p3tvcg&title=5+things+I+wish+I+knew+before+studying+Computer+Science&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "5 things I wish I knew before studying Computer Science")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ) -->
 
+[![Binary Converter and Adder](https://ytcards.demolab.com/?id=OFUs927BfKM&title=Any+Bit+Adder&lang=en&timestamp=1738472400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=148 "Any Bit Adder")](https://www.youtube.com/watch?v=OFUs927BfKM&ab_channel=Wickenden)
 #
--->
+
 [![DamscusSmith's Github Stats](https://github-readme-stats.vercel.app/api?username=DamascusSmith&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 #
@@ -50,10 +50,7 @@ I primarily have enjoyed **C++** for the low level grasp you get of how things w
 </details>
 
 #
-<!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
-<!--[![5 things I wish I knew before studying Computer Science](https://ytcards.demolab.com/?id=Wjj21p3tvcg&title=5+things+I+wish+I+knew+before+studying+Computer+Science&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "5 things I wish I knew before studying Computer Science")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ) -->
 
-[![Binary Converter and Adder](https://ytcards.demolab.com/?id=OFUs927BfKM&title=Any+Bit+Adder&lang=en&timestamp=1738472400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=148 "Any Bit Adder")](https://www.youtube.com/watch?v=OFUs927BfKM&ab_channel=Wickenden)
 
 **Reach Me**
 
