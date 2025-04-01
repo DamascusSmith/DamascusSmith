@@ -4,9 +4,8 @@ I primarily have enjoyed **C++** for the low level grasp you get of how things w
 
 **❔ About Me ❔**
 - 🎓 Computer Science Student in Ontario, Canada
-- 🎮 Love game dev hmu just to talk about it
 - 🎯 Always open for a good challenge, and push my limits
-- 💬 How to Reach Me: **Wickendenwilliam@gmail.com**, or **@sirshrkimpalot on Discord**
+- 💬 How to Reach Me: **@sirshrkimpalot on Discord**
 
 ---
 
