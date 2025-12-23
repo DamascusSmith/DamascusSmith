@@ -5,7 +5,7 @@ I primarily have enjoyed **C++** for the low level grasp you get of how things w
 **❔ About Me ❔**
 - 🎓 Computer Science Student in Ontario, Canada
 - 🎯 Always open for a good challenge, and push my limits
-- 💬 How to Reach Me: **@sirshrkimpalot on Discord**
+- 💬 How to Reach Me: **@wikkenden on Discord**
 
 ---
 
