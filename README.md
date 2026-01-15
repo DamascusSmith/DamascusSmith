@@ -43,12 +43,6 @@ I primarily have enjoyed them for the low level grasp you get of how things work
 [![Binary Converter and Adder](https://ytcards.demolab.com/?id=OFUs927BfKM&title=Any+Bit+Adder&lang=en&timestamp=1738472400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=148 "Any Bit Adder")](https://www.youtube.com/watch?v=OFUs927BfKM&ab_channel=Wickenden) -->
 [![I Chose Game Development Over a Winter Break](https://ytcards.demolab.com/?id=nY1hcdz9omY&title=Game+Dev+Progress&lang=en&timestamp=1739422800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1155 "I Chose Game Development Over a Winter Break")](https://www.youtube.com/watch?v=nY1hcdz9omY&ab_channel=Wickenden)
 
-#
-
-[![DamscusSmith's Github Stats](https://github-readme-stats.vercel.app/api?username=DamascusSmith&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-#
-
 **Reach Me**
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
