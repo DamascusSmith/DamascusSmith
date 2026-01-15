@@ -1,11 +1,11 @@
-# 📖 William Wickenden
+# William Wickenden
 Hey, my name's Will, or DamascusSmith on most platforms I use. I'm currently a student learning programming with a passion for learning, and what goes into how we learn. My first language was **C#** when I first started messing with unity when I was 17ish, since then though my favorite languages to program in have become **C, and C++** in general.
 I primarily have enjoyed them for the low level grasp you get of how things work.
 
 **❔ About Me ❔**
-- 🎓 Computer Science Student in Ontario, Canada
-- 🎯 Always open for a good challenge, and push my limits
-- 💬 How to Reach Me: **@wikkenden on Discord**
+- Computer Science Student in Ontario, Canada
+- Always open for a good challenge, and push my limits
+- How to Reach Me: **@wikkenden on Discord**
 
 ---
 
@@ -48,15 +48,6 @@ I primarily have enjoyed them for the low level grasp you get of how things work
 [![DamscusSmith's Github Stats](https://github-readme-stats.vercel.app/api?username=DamascusSmith&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 #
-
-<details>
- <summary><h3> 👨‍💻 Will's Coding Journey... So far</h3></summary>
-   It all started when I was born... nah jk. It started when I was first in highschool in grade 9(well now come to think of it there's Scratch but I'm not counting that) and my teacher handed out a sheet with a bunch of ways to use HTML on it. I was always interesting in technology, having my dad get me into it at young age. I would play   games like Diablo 2, Warcraft, and Stronghold Crusader. I remember I would spend my lunches in the library because that was the only decent computer I could get access too outside of class time, and I would just sit in there with that sheet of paper messing with html. Programming fell of for me for a bit there because I never really learned how to learn it and was blissfully un-aware of the vast recources that were on the internet, and\or what I even needed to look up. This is a common theme the not knowing what I don't know. Then later some more computer courses came up where I got to do some more programming in Java, in Netbeans... not my prefered IDE nowadays. But I would find myself over enthusiastic and I remember one time we had to make a little game, so I made a text based rpg(this did not get finished lol), with a full main menu, ascii, and a race selection system. Very specifically I remember I wasn't finished the game in time as you do when you overscope, but with the teacher saying "You know what how about we just call this a Bethesda game, because you've already displayed more learning than I asked for". Then it was off to collage where I currently am now and have learned alot, and now feel comfortable learning things on my own, my latest revalation has been the discovering of ✨Roadmaps✨ where finally I can know what I don't know. There was also alot of time where I spend in unity, and some projects I've worked on can be found above I think that are worth sharing that I made seperate from classes I was taking or was above expectations/had more creative freedom.
-
-</details>
-
-#
-
 
 **Reach Me**
 
